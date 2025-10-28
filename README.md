@@ -174,10 +174,11 @@ $$
 
 ## 📖 参考文献
 
-1. Heston, S. L. (1993). A closed-form solution for options with stochastic volatility.
-2. Hull, J., & White, A. (2017). Optimal delta hedging for options.
-3. Buehler, H., et al. (2019). Deep hedging: Learning to simulate equity option markets.
+Hull, J. and White, A. (2017). Optimal delta hedging for options. Journal of Banking & Finance, 82:180–190.
 
+Nian, K., Coleman, T. F., and Li, Y. (2018). Learning minimum variance discrete hedging directly from the market. Quantitative Finance, 18(7):1115–1128.
+
+Nian, K., Coleman, T. F., and Li, Y. (2021). Learning sequential option hedging models from market data. Journal of Banking & Finance, 133:106277.
 
 ## 📧 联系方式
 
