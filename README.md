@@ -178,23 +178,11 @@ $$
 2. Hull, J., & White, A. (2017). Optimal delta hedging for options.
 3. Buehler, H., et al. (2019). Deep hedging: Learning to simulate equity option markets.
 
-## 🤝 贡献
-
-欢迎提交Issue和Pull Request！
-
-## 📝 许可证
-
-MIT License
-
-## 👨‍💻 作者
-
-[Your Name]
 
 ## 📧 联系方式
 
 如有问题，请通过以下方式联系：
-- Email: your.email@example.com
-- GitHub Issues: [项目Issues页面]
+- Email: lxxx0304@163.com
 
 ---
 
