@@ -7,9 +7,8 @@
 本项目对比了多种期权Delta对冲策略在Heston随机波动率模型下的性能表现，包括：
 
 - **BS Delta**: Black-Scholes模型Delta（基准方法）
-- **Heston Delta**: 基于Heston模型的Delta（带参数估计误差）
 - **Analytic Heston Delta**: 解析Heston Delta（理论最优）
-- **Direct KRR (DKL)**: 基于直接核岭回归的学习型对冲策略
+- **Direct KRR (DKL)**: 基于离散直接对冲学习策略
 - **MV Delta**: Hull & White (2017) 最小方差Delta对冲策略
 
 ## 🎯 主要特性
